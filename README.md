@@ -212,10 +212,3 @@ Your Coffee Shop Barista Agent is now live! ☕🤖
 
 Day 2 is officially complete — the Coffee Shop Barista Agent **“Brew”** is fully functional with voice interaction, order management, and live beverage visualization.
 Stay tuned for Day 3! 🚀
-
-```
-
-
-
-kar du ye bhi?
-```
