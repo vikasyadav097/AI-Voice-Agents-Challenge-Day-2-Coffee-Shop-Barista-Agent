@@ -34,6 +34,7 @@ current_order = {
     "extras": [],
     "name": None
 }
+# drinking coffe is good for health ji 
 
 # Store all orders during session
 order_history = []
